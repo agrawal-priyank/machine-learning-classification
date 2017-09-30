@@ -8,7 +8,7 @@
 5. [Decision Tree with Implementation](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/decision-trees/decision-tree-with-implementation.ipynb)
 6. [Decision Tree with Overfitting](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/decision-trees/decision-tree-with-overfitting.ipynb)
 7. [Boosting](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/boosting/boosting.ipynb)
-8. [Boosting using Decision Stumps](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/boosting/boosting-decision-stump.ipynb)
+8. [ADA Boosting using Decision Stumps](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/boosting/boosting-decision-stump.ipynb)
 9. [Precision and Recall](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/precision-recall/precision-recall.ipynb)
 10. [Stochastic Learning](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/stochastic-gradient-descent/stochastic-ascent-online-learning.ipynb)
 
