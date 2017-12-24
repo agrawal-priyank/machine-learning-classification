@@ -1,7 +1,8 @@
 ## Machine Learning: Classification
 
 ### Description
-Built classifiers using logistic regression and decision trees to classify product reviews and used machine learning techniques such as boosting, precision and recall, and stochastic gradient descent for optimization.
+* Implemented Logistic Regression with L2 Regularization and Stochastic Gradient Descent optimization to build a linear classifier for classifying positive and negative reviews using the Amazon Baby Products Reviews dataset. Plotted the Precision and Recall trade off against different threshold values for a review to be labeled as positive.
+* Implemented Decision Trees with ADA Boosting to classify safe and risky loans using the Loan Lending Club dataset.
 
 ### Code
 1. [Linear Classifier](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/linear-classifier-logistic-regression/linear-classifier.ipynb)
