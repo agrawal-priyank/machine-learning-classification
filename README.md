@@ -1,5 +1,8 @@
 ## Machine Learning: Classification
 
+### Description
+Built classifiers using logistic regression and decision trees to classify product reviews and used machine learning techniques such as boosting, precision and recall, and stochastic gradient descent for optimization.
+
 ### Code
 1. [Linear Classifier](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/linear-classifier-logistic-regression/linear-classifier.ipynb)
 2. [Linear Classifier Learning (Logistic Regression)](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/linear-classifier-logistic-regression/linear-classifier-learning.ipynb)
@@ -12,17 +15,18 @@
 9. [Precision and Recall](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/precision-recall/precision-recall.ipynb)
 10. [Stochastic Learning](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/stochastic-gradient-descent/stochastic-ascent-online-learning.ipynb)
 
-### Data
-[Amazon Baby Product Reviews](https://github.com/agrawal-priyank/machine-learning-classification/tree/master/data/amazon_baby.gl)
-
-[Amazon Baby Product Reviews (Small Subset)](https://github.com/agrawal-priyank/machine-learning-classification/tree/master/data/amazon_baby_subset.gl)
-
-[Lending Loan Data](https://github.com/agrawal-priyank/machine-learning-classification/tree/master/data/lending-club-data.gl)
-
-[Important Words](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/data/important_words.json)
+### [Data](https://github.com/agrawal-priyank/machine-learning-classification/tree/master/data)
 
 ### Programming Language
 Python
 
 ### ML Packages
-Graphlab Create, NumPy, Matplotlib
+Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, Matplotlib
+
+### How to use it
+1. Fork this repository to have your own copy
+2. Clone your copy on your local system
+3. Install necessary packages
+
+### Note
+This repository does not contain optimal machine learning models! It only assesses various models that can be made using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
