@@ -1,8 +1,9 @@
-## Machine Learning: Classification
+## Machine Learning Classification: Amazon Product Reviews and Loan Lending Prediction Models
 
 ### Description
-* Implemented Logistic Regression with L2 Regularization and Stochastic Gradient Descent optimization to build a linear classifier for classifying positive and negative reviews using the Amazon Baby Products Reviews dataset. Plotted the Precision and Recall trade off against different threshold values for a review to be labeled as positive.
-* Implemented Decision Trees with ADA Boosting to classify safe and risky loans using the Loan Lending Club dataset.
+* Implemented logistic regression with l2 regularization and stochastic gradient descent optimization to build a linear classifier for classifying positive and negative reviews using the Amazon Baby Products Reviews dataset. 
+* Plotted the precision and recall trade-off against different threshold values for a review to be labeled as positive.
+* Implemented decision trees with ADA boosting to classify safe and risky loans using the Loan Lending Club dataset.
 
 ### Code
 1. [Linear Classifier](https://github.com/agrawal-priyank/machine-learning-classification/blob/master/linear-classifier-logistic-regression/linear-classifier.ipynb)
@@ -21,8 +22,11 @@
 ### Programming Language
 Python
 
-### ML Packages
-Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, Matplotlib
+### Packages
+Anaconda, Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
+
+### Tools/IDE 
+Jupyter notebook (IPython)
 
 ### How to use it
 1. Fork this repository to have your own copy
@@ -30,4 +34,4 @@ Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, M
 3. Install necessary packages
 
 ### Note
-This repository does not contain optimal machine learning models! It only assesses various models that can be made using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
+This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
